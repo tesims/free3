@@ -1,3 +1,3 @@
-## Flumn: Building a RAG (Retrieval-Augmented Generation) from Scratch 
+## Zlirp: End-to-End Unstructured Data Pipeline
 
-Developed a Retrieval-Augmented Generation system from the ground up to understand the inner workings and components of RAG models. Gain insights into how RAG models combine information retrieval and language generation techniques to produce more accurate and contextually relevant outputs.
+Develop a comprehensive data pipeline that handles unstructured data from various sources, such as text, images, and audio. Learn data engineering principles and techniques for data ingestion, preprocessing, storage, and analysis, enabling efficient and scalable processing of unstructured data for downstream applications.
